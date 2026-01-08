@@ -17,7 +17,7 @@
 요즘은 **FastAPI + Git** 실습하면서 작은 프로젝트를 만들고 있어요.
 
 </div>
-## Tech Stacks
+# Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
