@@ -24,7 +24,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?blueconsuemr=YOUR_blueconsumer&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?blueconsumer=YOUR_blueconsumer&show_icons=true)
 
